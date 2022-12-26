@@ -164,7 +164,7 @@ footer {
   font-size: 14px;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 700px) {
   :root {
     --bg-url: url(./assets/bg-mobile.jpg);
   }
