@@ -82,11 +82,7 @@ main {
 }
 
 #switch button:hover {
-  outline: 8px solid rgba(255, 255, 255, 0.2);
-}
-
-.light #switch button:hover {
-  outline: 8px solid rgba(0, 0, 0, 0.1);
+  outline: 8px solid var(--highlight-color);
 }
 
 .light #switch button {
